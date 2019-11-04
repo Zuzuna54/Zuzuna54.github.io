@@ -3916,3 +3916,15 @@ input, select, textarea {
 		}
 
 	}
+
+	.left-side {
+		color: rgb(214, 189, 189);
+	}
+
+	.title {
+		color: rgb(181, 214, 166); 
+	}
+
+	.info {
+		color: aliceblue;
+	}
