@@ -3928,3 +3928,17 @@ input, select, textarea {
 	.info {
 		color: aliceblue;
 	}
+	.manual {
+		padding: 0;
+		margin: 0;
+		display: flex;
+		margin-top: 38px;
+		align-items: center;
+		color: #7649bb;
+	}
+	.manual > div {
+		margin-left: 13px;
+	}
+	.redux {
+		height: 69px;
+	}
