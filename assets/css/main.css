@@ -3942,3 +3942,6 @@ input, select, textarea {
 	.redux {
 		height: 69px;
 	}
+	.text {
+		color: rgb(8, 0, 131);
+	}
