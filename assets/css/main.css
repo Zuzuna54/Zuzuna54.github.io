@@ -3938,6 +3938,10 @@ input, select, textarea {
 	}
 	.manual > div {
 		margin-left: 13px;
+		font-family: inherit;
+		padding-bottom: 14px;
+ 	    padding-left: 4px;
+		font-weight: 600;
 	}
 	.redux {
 		height: 69px;
